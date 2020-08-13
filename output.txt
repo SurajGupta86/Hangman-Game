@@ -1,0 +1,90 @@
+ 
+======== RESTART: C:\Users\Suraj Gupta\Desktop\python\Project\hangman.py =======
+Enter your name: Suraj
+Welcome : Suraj
+-------------------
+try to guess the word in less than 10 attempts
+Guess the word:  _ _ _ _ _ _ _ _ _ 
+a
+Guess the word:  _ a_ _ _ a_ _ _ 
+s
+Guess the word:  sa_ _ _ a_ _ _ 
+c
+9 turns left
+  --------  
+Guess the word:  sa_ _ _ a_ _ _ 
+v
+Guess the word:  sav_ _ a_ _ _ 
+b
+8 turns left
+  --------  
+     O      
+Guess the word:  sav_ _ a_ _ _ 
+i
+7 turns left
+  --------  
+     O      
+     |      
+Guess the word:  sav_ _ a_ _ _ 
+u
+6 turns left
+  --------  
+     O      
+     |      
+    /       
+Guess the word:  sav_ _ a_ _ _ 
+r
+Guess the word:  sav_ _ a_ _ r
+e
+Guess the word:  save_ a_ er
+b
+5 turns left
+  --------  
+     O      
+     |      
+    / \     
+Guess the word:  save_ a_ er
+e
+Guess the word:  save_ a_ er
+h
+4 turns left
+  --------  
+   \ O      
+     |      
+    / \     
+Guess the word:  save_ a_ er
+u
+3 turns left
+  --------  
+   \ O /    
+     |      
+    / \     
+Guess the word:  save_ a_ er
+o
+2 turns left
+  --------  
+   \ O /|   
+     |      
+    / \     
+Guess the word:  save_ a_ er
+p
+1 turns left
+Last breaths counting, Take care!
+  --------  
+   \ O_|/   
+     |      
+    / \     
+Guess the word:  save_ a_ er
+qq
+Enter a valid character
+
+Guess the word:  save_ a_ er
+q
+You loose
+You let a kind man die
+  --------  
+     O_|    
+    /|\      
+    / \     
+
+>>> 
